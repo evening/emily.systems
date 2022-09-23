@@ -1,0 +1,67 @@
+body {
+    font-family: Consolas, monaco, monospace;
+    max-width: 50em;
+    padding-bottom: 3em;
+    word-wrap: break-word;
+    margin: auto;
+    overflow-y: scroll;
+}
+h1 {
+    font-family: sans-serif;
+}
+
+blockquote p em {
+    color: #333 !important;
+}
+
+#page-title h1 a {
+    color: black;
+}
+
+img {
+    max-width: 100%;
+}
+
+a, a:hover {
+    text-decoration: none;
+}
+
+h1,h2,h3 {
+    font-weight: normal;
+}
+
+.date-time-title {
+    display: inline-block;
+}
+
+.post {
+    padding-left: 1em;
+}
+
+.blog-post {
+    padding-left: 1em;
+}
+
+#post-title {
+    font-weight: bold;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+h2 {
+    font-size: 1.25em;
+}
+
+h3 {
+    font-weight: bold;
+}
+
+blockquote {
+    border-left: 1.5px solid black;
+    margin: 0 0 0 1em;
+    padding-left: 1.5em;
+}
+
+li p {
+    margin: 0em;
+}
