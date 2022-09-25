@@ -18,8 +18,9 @@
       <pubDate>Sun, 25 Sep 2022 16:58:26 -0400</pubDate>
       
       <guid>https://emily.systems/posts/why-urbit/</guid>
-      <description>&lt;p&gt;The internet could be about connecting with friends, but instead it&amp;rsquo;s about ads and centralization.&lt;/p&gt;
-&lt;p&gt;If Alice wants to tell Bob and Charlie about her day, the easiest way is to ask a company to tell them (facebook, twitter, email, etc). She can&amp;rsquo;t easily tell them directly. &lt;a href=&#34;https://urbit.org/overview&#34;&gt;Urbit&lt;/a&gt; seems like a way to kick out the 3rd party. I wanted to write about how it could change the way we build and use the internet.&lt;/p&gt;
+      <description>&lt;p&gt;The internet could be about connecting with friends, but instead it&amp;rsquo;s about ads.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s not easy for Alice to tell Bob and Charlie about her day, at least not directly. It&amp;rsquo;s much easier to ask a company to tell them for her (facebook, twitter, email, etc). Nobody wants to be have to ask companies to talk to her friends!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://urbit.org/overview&#34;&gt;Urbit&lt;/a&gt; seems like a way to kick out the 3rd party. I wanted to write about how it could change the way we build and use the internet.&lt;/p&gt;
 &lt;h2 id=&#34;design-example&#34;&gt;Design example&lt;/h2&gt;
 &lt;p&gt;Let&amp;rsquo;s build Snapchat – we want to send photos to friends. How would it typically be built, and how could we built it in Urbit?&lt;/p&gt;
 &lt;h3 id=&#34;handling-users&#34;&gt;Handling users&lt;/h3&gt;
