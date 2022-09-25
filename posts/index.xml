@@ -18,7 +18,7 @@
       <pubDate>Sun, 25 Sep 2022 16:58:26 -0400</pubDate>
       
       <guid>https://emily.systems/posts/why-urbit/</guid>
-      <description>&lt;p&gt;I can&amp;rsquo;t stop thinking about (Urbit)[https://urbit.org/overview]. I wanted to write about how it could change the way we build and use the internet.&lt;/p&gt;
+      <description>&lt;p&gt;I can&amp;rsquo;t stop thinking about &lt;a href=&#34;https://urbit.org/overview&#34;&gt;Urbit&lt;/a&gt;. I wanted to write about how it could change the way we build and use the internet.&lt;/p&gt;
 &lt;h2 id=&#34;design-example&#34;&gt;Design example&lt;/h2&gt;
 &lt;p&gt;Let&amp;rsquo;s build Snapchat – we want to send photos to friends. How would it typically be built, and how could we built it in Urbit?&lt;/p&gt;
 &lt;h3 id=&#34;handling-users&#34;&gt;Handling users&lt;/h3&gt;
