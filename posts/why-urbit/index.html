@@ -35,8 +35,8 @@
 <p>The service needs authentication. This would require storing the usernames and passwords in a database. We&rsquo;d also have to design some sort of password recovery system.</p>
 <p>With Urbit, the OS handles authentication. If you are logged in to the Urbit OS, you are already authenticated. It&rsquo;s like SSO, except it&rsquo;s your own.</p>
 <h3 id="sending-data">Sending data</h3>
-<p>Then, we have to handle the actual sending. Each time someone adds a friend, we&rsquo;d have to store it to a database. Each time someone posts a photo, the photo gets uploaded to our storage and gets sent to each account on their friends list.</p>
-<p>With Urbit, your own machine stores your friends list. Each time you post a photo, it reads your own friends list and sends it directly to them (Urbit handles the peer-to-peer network on the OS level: simply send it to the username). The photo only gets delivered to those you want it to.</p>
+<p>Then, we have to handle the actual sending. Each time someone adds a friend, we&rsquo;d have to store it to a database. Each time someone posts a photo, the photo gets uploaded to our storage and gets written to a database so each friend can view it.</p>
+<p>With Urbit, your own machine stores your friends list. Each time you post a photo, it reads your own friends list and sends it directly to them (Urbit handles the peer-to-peer network on the OS level: simply send it to the <a href="https://urbit.org/overview/urbit-id">Urbit ID</a>). The photo only gets delivered to those you want it to.</p>
 <h3 id="scaling">Scaling</h3>
 <p>Let&rsquo;s say your service becomes a lot more active than anticipated; we&rsquo;d have to scale up the service. This could include increasing the amount of storage for photos, increasing the amount of uploads the server can handle at once, replication, sharding, and so on. This would increase complexity and the cost required to run the service. We would probably need to monetize our service. Maybe ads?</p>
 <p>With Urbit, there is no need to scale. Everything is peer to peer. Data isn&rsquo;t being sent to a single centralized server but to your friends.</p>
