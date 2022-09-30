@@ -13,14 +13,14 @@
     
     
     <item>
-      <title>why urbit?</title>
+      <title>Why Urbit?</title>
       <link>https://emily.systems/posts/why-urbit/</link>
       <pubDate>Sun, 25 Sep 2022 16:58:26 -0400</pubDate>
       
       <guid>https://emily.systems/posts/why-urbit/</guid>
-      <description>&lt;p&gt;The internet could be about connecting with friends, but instead it&amp;rsquo;s about ads.&lt;/p&gt;
-&lt;p&gt;It&amp;rsquo;s not easy for Alice to tell Bob and Charlie about her day, at least not directly. It&amp;rsquo;s much easier to ask a company to tell them for her (facebook, twitter, email, etc). Nobody wants to be have to ask companies to talk to her friends!&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://urbit.org/overview&#34;&gt;Urbit&lt;/a&gt; seems like a way to kick out the 3rd party. I wanted to write about how it could change the way we build and use the internet.&lt;/p&gt;
+      <description>&lt;p&gt;The internet could be about connecting with friends, but it&amp;rsquo;s not.&lt;/p&gt;
+&lt;p&gt;It’s not easy for Alice to tell Bob and Charlie about her day, at least not directly. It’s much easier to ask a company to tell them for her (facebook, twitter, email, etc). Nobody wants to be have to ask companies to talk to their friends!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://urbit.org/overview&#34;&gt;Urbit&lt;/a&gt; is a way to kick out the 3rd party.&lt;/p&gt;
 &lt;h2 id=&#34;design-example&#34;&gt;Design example&lt;/h2&gt;
 &lt;p&gt;Let&amp;rsquo;s build Snapchat – we want to send photos to friends. How would it typically be built, and how could we built it in Urbit?&lt;/p&gt;
 &lt;h3 id=&#34;handling-users&#34;&gt;Handling users&lt;/h3&gt;
@@ -41,7 +41,7 @@
     
     
     <item>
-      <title>deleuzian chemicals</title>
+      <title>Deleuzian Chemicals</title>
       <link>https://emily.systems/posts/deleuzian-chemicals/</link>
       <pubDate>Wed, 16 Jun 2021 19:28:03 -0500</pubDate>
       
@@ -80,7 +80,6 @@ delirium in particular, but also in delirium as a general phenomenon.&lt;/em&gt;
 &lt;p&gt;We can say that subjectivity is the opposite of catatonia. One way we can approach &amp;ldquo;zero intensity&amp;rdquo; is through &lt;a href=&#34;https://en.wikipedia.org/wiki/NMDA_receptor_antagonist&#34;&gt;NMDAr antagonists&lt;/a&gt; which can produce a loss of consciousness&lt;sup id=&#34;fnref:11&#34;&gt;&lt;a href=&#34;#fn:11&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;11&lt;/a&gt;&lt;/sup&gt;. Schizophrenia as a clinical entity (often catatonic, as D&amp;amp;G mention) is hypothesized as low NMDA activity&lt;sup id=&#34;fnref:12&#34;&gt;&lt;a href=&#34;#fn:12&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;12&lt;/a&gt;&lt;/sup&gt;. This means that the production of subjectivity could be associated with the activity of the NMDA receptor. A higher intensity or subjectivity could be associated with increasing NMDA activity, something psychedelics have the ability to do&lt;sup id=&#34;fnref:13&#34;&gt;&lt;a href=&#34;#fn:13&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;13&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 &lt;p&gt;This image can show what intensive subjectivity may mean. Giving a normal brain (left) a 5-HT2a agonist causes glutamate to release&lt;sup id=&#34;fnref:14&#34;&gt;&lt;a href=&#34;#fn:14&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;14&lt;/a&gt;&lt;/sup&gt;, increasing NMDA receptor activity&lt;sup id=&#34;fnref:15&#34;&gt;&lt;a href=&#34;#fn:15&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;15&lt;/a&gt;&lt;/sup&gt; and thus increasing &amp;ldquo;subjectivity&amp;rdquo;. This gives us a picture of what increased subjectivity &lt;em&gt;may&lt;/em&gt; look like (right) according to Deleuze and Guattari.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;http://u.cubeupload.com/n23/transparent.png&#34; alt=&#34;DMN psychedelic&#34;&gt;&lt;/p&gt;
-&lt;p&gt;*[D&amp;amp;G]: Deleuze and Guattari&lt;/p&gt;
 &lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
